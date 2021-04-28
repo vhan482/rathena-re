@@ -1,0 +1,9 @@
+// Item Combos Database
+//
+// Structure of Database:
+// ID:ID:ID:ID,{ Script }
+
+32248:32250:32252,{ bonus bFixedCast,-300; bonus bDelayrate,-7; bonus2 bSubSize,Size_All,3; } 
+32248:32251:32252,{ bonus bFixedCast,-300; bonus bDelayrate,-7; bonus2 bSubSize,Size_All,3; }
+32249:32250:32252,{ bonus bFixedCast,-300; bonus bDelayrate,-7; bonus2 bMagicSubSize,Size_All,3; }
+32249:32251:32252,{ bonus bFixedCast,-300; bonus bDelayrate,-7; bonus2 bMagicSubSize,Size_All,3; }
