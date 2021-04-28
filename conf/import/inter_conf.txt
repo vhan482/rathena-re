@@ -1,0 +1,38 @@
+// MySQL Login server
+login_server_ip: 127.0.0.1
+login_server_port: 3306
+login_server_id: rometrics
+login_server_pw: R0metr1csP@ssw0rd
+login_server_db: rathena_rag
+login_codepage:
+login_case_sensitive: no
+
+ipban_db_ip: 127.0.0.1
+ipban_db_port: 3306
+ipban_db_id: rometrics
+ipban_db_pw: R0metr1csP@ssw0rd
+ipban_db_db: rathena_rag
+ipban_codepage:
+
+// MySQL Character server
+char_server_ip: 127.0.0.1
+char_server_port: 3306
+char_server_id: rometrics
+char_server_pw: R0metr1csP@ssw0rd
+char_server_db: rathena_rag
+
+// MySQL Map Server
+map_server_ip: 127.0.0.1
+map_server_port: 3306
+map_server_id: rometrics
+map_server_pw: R0metr1csP@ssw0rd
+map_server_db: rathena_rag
+
+// MySQL Log Database
+log_db_ip: 127.0.0.1
+log_db_port: 3306
+log_db_id: rometrics
+log_db_pw: R0metr1csP@ssw0rd
+log_db_db: rathena_log
+log_codepage:
+log_login_db: rathena_log

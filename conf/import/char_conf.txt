@@ -1,0 +1,16 @@
+userid: s1
+passwd: p1
+
+server_name: rathena
+
+login_ip: 51.79.173.142
+login_port: 6950
+
+char_ip: 51.79.173.142
+char_port: 6151
+
+start_point_pre: prontera,156,191
+start_items: 1201,1,2:2301,1,16
+
+char_del_delay: 0
+
